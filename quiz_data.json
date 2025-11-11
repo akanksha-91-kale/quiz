@@ -1,0 +1,1352 @@
+[
+ {
+   "Q_ID": 1,
+   "Category": "C",
+   "Question_Text": "What does 'malloc()' stand for?",
+   "Option_A": "Memory Allocation",
+   "Option_B": "Main Lock",
+   "Option_C": "Managed Logics",
+   "Option_D": "Meta Logic",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 2,
+   "Category": "C",
+   "Question_Text": "Which header file is required for using printf()?",
+   "Option_A": "stdio.h",
+   "Option_B": "stdlib.h",
+   "Option_C": "string.h",
+   "Option_D": "math.h",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 3,
+   "Category": "C",
+   "Question_Text": "What is the size of a pointer in a 64-bit system?",
+   "Option_A": "4 bytes",
+   "Option_B": "8 bytes",
+   "Option_C": "16 bytes",
+   "Option_D": "Depends on data type",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 4,
+   "Category": "C",
+   "Question_Text": "Which operator is used to get the address of a variable?",
+   "Option_A": "*",
+   "Option_B": "&",
+   "Option_C": "#",
+   "Option_D": "%",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 5,
+   "Category": "C",
+   "Question_Text": "What does 'NULL' represent in C?",
+   "Option_A": "Zero",
+   "Option_B": "Empty string",
+   "Option_C": "Null pointer",
+   "Option_D": "Undefined",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 6,
+   "Category": "C",
+   "Question_Text": "Which loop is guaranteed to execute at least once?",
+   "Option_A": "for loop",
+   "Option_B": "while loop",
+   "Option_C": "do-while loop",
+   "Option_D": "All of the above",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 7,
+   "Category": "C",
+   "Question_Text": "What is the return type of main() function?",
+   "Option_A": "void",
+   "Option_B": "int",
+   "Option_C": "float",
+   "Option_D": "char",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 8,
+   "Category": "C",
+   "Question_Text": "Which function allocates memory dynamically?",
+   "Option_A": "alloc()",
+   "Option_B": "malloc()",
+   "Option_C": "memalloc()",
+   "Option_D": "getmem()",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 9,
+   "Category": "C",
+   "Question_Text": "What does 'strcpy()' do?",
+   "Option_A": "Compares strings",
+   "Option_B": "Copies string",
+   "Option_C": "Concatenates strings",
+   "Option_D": "Finds string length",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 10,
+   "Category": "C",
+   "Question_Text": "Which keyword prevents modification of a variable?",
+   "Option_A": "const",
+   "Option_B": "static",
+   "Option_C": "volatile",
+   "Option_D": "fixed",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 11,
+   "Category": "C",
+   "Question_Text": "What is the correct syntax for a pointer declaration?",
+   "Option_A": "int ptr*",
+   "Option_B": "int *ptr",
+   "Option_C": "*int ptr",
+   "Option_D": "ptr* int",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 12,
+   "Category": "C",
+   "Question_Text": "Which operator is used for dereferencing?",
+   "Option_A": "&",
+   "Option_B": "*",
+   "Option_C": "#",
+   "Option_D": "->",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 13,
+   "Category": "C",
+   "Question_Text": "What does 'sizeof()' return?",
+   "Option_A": "Bytes",
+   "Option_B": "Bits",
+   "Option_C": "Kilobytes",
+   "Option_D": "Characters",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 14,
+   "Category": "C",
+   "Question_Text": "Which is not a valid storage class in C?",
+   "Option_A": "auto",
+   "Option_B": "register",
+   "Option_C": "extern",
+   "Option_D": "public",
+   "Correct_Key": "D"
+ },
+ {
+   "Q_ID": 15,
+   "Category": "C",
+   "Question_Text": "What does 'calloc()' do compared to 'malloc()'?",
+   "Option_A": "Same as malloc",
+   "Option_B": "Initializes to zero",
+   "Option_C": "Faster allocation",
+   "Option_D": "Allocates on stack",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 16,
+   "Category": "Java",
+   "Question_Text": "Which keyword is used to inherit a class?",
+   "Option_A": "extend",
+   "Option_B": "inherits",
+   "Option_C": "implements",
+   "Option_D": "extends",
+   "Correct_Key": "D"
+ },
+ {
+   "Q_ID": 17,
+   "Category": "Java",
+   "Question_Text": "What is the default value of a boolean in Java?",
+   "Option_A": "true",
+   "Option_B": "false",
+   "Option_C": "0",
+   "Option_D": null,
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 18,
+   "Category": "Java",
+   "Question_Text": "Which collection does not allow duplicates?",
+   "Option_A": "ArrayList",
+   "Option_B": "HashSet",
+   "Option_C": "LinkedList",
+   "Option_D": "Vector",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 19,
+   "Category": "Java",
+   "Question_Text": "What is the parent class of all classes?",
+   "Option_A": "System",
+   "Option_B": "Main",
+   "Option_C": "Object",
+   "Option_D": "Class",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 20,
+   "Category": "Java",
+   "Question_Text": "Which keyword is used for exception handling?",
+   "Option_A": "catch",
+   "Option_B": "throw",
+   "Option_C": "try",
+   "Option_D": "All of the above",
+   "Correct_Key": "D"
+ },
+ {
+   "Q_ID": 21,
+   "Category": "Java",
+   "Question_Text": "What is the size of int in Java?",
+   "Option_A": "2 bytes",
+   "Option_B": "4 bytes",
+   "Option_C": "8 bytes",
+   "Option_D": "Platform dependent",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 22,
+   "Category": "Java",
+   "Question_Text": "Which method starts a thread?",
+   "Option_A": "run()",
+   "Option_B": "start()",
+   "Option_C": "init()",
+   "Option_D": "begin()",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 23,
+   "Category": "Java",
+   "Question_Text": "What is autoboxing in Java?",
+   "Option_A": "Automatic type conversion",
+   "Option_B": "Boxing integers",
+   "Option_C": "Creating objects",
+   "Option_D": "Automatic packaging",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 24,
+   "Category": "Java",
+   "Question_Text": "Which is not an access modifier?",
+   "Option_A": "public",
+   "Option_B": "protected",
+   "Option_C": "package",
+   "Option_D": "private",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 25,
+   "Category": "Java",
+   "Question_Text": "What does JVM stand for?",
+   "Option_A": "Java Virtual Machine",
+   "Option_B": "Java Variable Method",
+   "Option_C": "Java Version Manager",
+   "Option_D": "Java Visual Mode",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 26,
+   "Category": "Java",
+   "Question_Text": "Which interface is used for sorting?",
+   "Option_A": "Comparable",
+   "Option_B": "Sortable",
+   "Option_C": "Ordered",
+   "Option_D": "Sequential",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 27,
+   "Category": "Java",
+   "Question_Text": "What is the output of 5/2 in Java?",
+   "Option_A": "2.5",
+   "Option_B": "2",
+   "Option_C": "3",
+   "Option_D": "2.0",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 28,
+   "Category": "Java",
+   "Question_Text": "Which package contains the String class?",
+   "Option_A": "java.util",
+   "Option_B": "java.lang",
+   "Option_C": "java.io",
+   "Option_D": "java.text",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 29,
+   "Category": "Java",
+   "Question_Text": "What is a constructor?",
+   "Option_A": "A method",
+   "Option_B": "A variable",
+   "Option_C": "A special method",
+   "Option_D": "A class",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 30,
+   "Category": "Java",
+   "Question_Text": "Which keyword is used to prevent inheritance?",
+   "Option_A": "sealed",
+   "Option_B": "final",
+   "Option_C": "static",
+   "Option_D": "private",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 31,
+   "Category": "Python",
+   "Question_Text": "Which keyword is used to define a function?",
+   "Option_A": "func",
+   "Option_B": "def",
+   "Option_C": "function",
+   "Option_D": "define",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 32,
+   "Category": "Python",
+   "Question_Text": "What is the output of type([])?",
+   "Option_A": "list",
+   "Option_B": "array",
+   "Option_C": "tuple",
+   "Option_D": "dict",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 33,
+   "Category": "Python",
+   "Question_Text": "Which method adds an element to a list?",
+   "Option_A": "add()",
+   "Option_B": "append()",
+   "Option_C": "insert()",
+   "Option_D": "push()",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 34,
+   "Category": "Python",
+   "Question_Text": "What does 'self' represent in Python?",
+   "Option_A": "Current object",
+   "Option_B": "Static method",
+   "Option_C": "Class method",
+   "Option_D": "Module",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 35,
+   "Category": "Python",
+   "Question_Text": "Which is mutable in Python?",
+   "Option_A": "tuple",
+   "Option_B": "string",
+   "Option_C": "list",
+   "Option_D": "frozenset",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 36,
+   "Category": "Python",
+   "Question_Text": "What is the correct way to create a dictionary?",
+   "Option_A": "{}",
+   "Option_B": "[]",
+   "Option_C": "()||",
+   "Option_D": "<>",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 37,
+   "Category": "Python",
+   "Question_Text": "Which operator is used for exponentiation?",
+   "Option_A": "^",
+   "Option_B": "**",
+   "Option_C": "pow",
+   "Option_D": "exp",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 38,
+   "Category": "Python",
+   "Question_Text": "What is the output of 5//2?",
+   "Option_A": "2.5",
+   "Option_B": "2",
+   "Option_C": "3",
+   "Option_D": "2.0",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 39,
+   "Category": "Python",
+   "Question_Text": "Which keyword is used for anonymous functions?",
+   "Option_A": "lambda",
+   "Option_B": "function",
+   "Option_C": "def",
+   "Option_D": "anonymous",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 40,
+   "Category": "Python",
+   "Question_Text": "What does 'pip' stand for?",
+   "Option_A": "Package Installer Python",
+   "Option_B": "Pip Installs Packages",
+   "Option_C": "Python Install Package",
+   "Option_D": "Preferred Installer Program",
+   "Correct_Key": "D"
+ },
+ {
+   "Q_ID": 41,
+   "Category": "Python",
+   "Question_Text": "Which is not a Python data type?",
+   "Option_A": "list",
+   "Option_B": "dictionary",
+   "Option_C": "array",
+   "Option_D": "tuple",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 42,
+   "Category": "Python",
+   "Question_Text": "What is the output of len('Hello')?",
+   "Option_A": "4",
+   "Option_B": "5",
+   "Option_C": "6",
+   "Option_D": "Error",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 43,
+   "Category": "Python",
+   "Question_Text": "Which method converts string to lowercase?",
+   "Option_A": "lower()",
+   "Option_B": "lowercase()",
+   "Option_C": "toLower()",
+   "Option_D": "downcase()",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 44,
+   "Category": "Python",
+   "Question_Text": "What is a decorator in Python?",
+   "Option_A": "A design pattern",
+   "Option_B": "Function modifier",
+   "Option_C": "Class wrapper",
+   "Option_D": "Module import",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 45,
+   "Category": "Python",
+   "Question_Text": "Which symbol is used for comments?",
+   "Option_A": "//",
+   "Option_B": "#",
+   "Option_C": "/*",
+   "Option_D": "--",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 46,
+   "Category": "CPP",
+   "Question_Text": "Which operator is used for scope resolution in C++?",
+   "Option_A": ".",
+   "Option_B": "::",
+   "Option_C": "->",
+   "Option_D": "#",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 47,
+   "Category": "CPP",
+   "Question_Text": "What is the size of a reference in C++?",
+   "Option_A": "0 bytes",
+   "Option_B": "Same as pointer",
+   "Option_C": "4 bytes",
+   "Option_D": "Depends on compiler",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 48,
+   "Category": "CPP",
+   "Question_Text": "Which header file is required for cout?",
+   "Option_A": "stdio.h",
+   "Option_B": "iostream",
+   "Option_C": "stream.h",
+   "Option_D": "console.h",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 49,
+   "Category": "CPP",
+   "Question_Text": "What is the default access specifier for a class?",
+   "Option_A": "public",
+   "Option_B": "private",
+   "Option_C": "protected",
+   "Option_D": "friend",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 50,
+   "Category": "CPP",
+   "Question_Text": "Which keyword is used for inheritance in C++?",
+   "Option_A": "extends",
+   "Option_B": "implements",
+   "Option_C": "inherits",
+   "Option_D": ": (colon)",
+   "Correct_Key": "D"
+ },
+ {
+   "Q_ID": 51,
+   "Category": "CPP",
+   "Question_Text": "What is a virtual function?",
+   "Option_A": "Static function",
+   "Option_B": "Overridden function",
+   "Option_C": "Friend function",
+   "Option_D": "Template function",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 52,
+   "Category": "CPP",
+   "Question_Text": "Which operator cannot be overloaded?",
+   "Option_A": "+",
+   "Option_B": "::",
+   "Option_C": "*",
+   "Option_D": "<<",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 53,
+   "Category": "CPP",
+   "Question_Text": "What is the correct syntax for a destructor?",
+   "Option_A": "~ClassName()",
+   "Option_B": "ClassName()",
+   "Option_C": "delete()",
+   "Option_D": "destroy()",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 54,
+   "Category": "CPP",
+   "Question_Text": "Which is not a STL container?",
+   "Option_A": "vector",
+   "Option_B": "map",
+   "Option_C": "array",
+   "Option_D": "list",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 55,
+   "Category": "CPP",
+   "Question_Text": "What does 'new' operator do?",
+   "Option_A": "Deletes memory",
+   "Option_B": "Allocates memory",
+   "Option_C": "Initializes variable",
+   "Option_D": "Creates class",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 56,
+   "Category": "CPP",
+   "Question_Text": "Which keyword makes a variable constant?",
+   "Option_A": "const",
+   "Option_B": "final",
+   "Option_C": "static",
+   "Option_D": "readonly",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 57,
+   "Category": "CPP",
+   "Question_Text": "What is function overloading?",
+   "Option_A": "Same name different parameters",
+   "Option_B": "Same parameters different name",
+   "Option_C": "Virtual functions",
+   "Option_D": "Template functions",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 58,
+   "Category": "CPP",
+   "Question_Text": "Which is the correct way to declare a reference?",
+   "Option_A": "int &ref",
+   "Option_B": "int ref&",
+   "Option_C": "&int ref",
+   "Option_D": "ref& int",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 59,
+   "Category": "CPP",
+   "Question_Text": "What is a friend function?",
+   "Option_A": "Member function",
+   "Option_B": "Non-member with access",
+   "Option_C": "Static function",
+   "Option_D": "Virtual function",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 60,
+   "Category": "CPP",
+   "Question_Text": "Which loop is entry-controlled?",
+   "Option_A": "do-while",
+   "Option_B": "All loops",
+   "Option_C": "for and while",
+   "Option_D": "None",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 61,
+   "Category": "JavaScript",
+   "Question_Text": "Which keyword declares a block-scoped variable?",
+   "Option_A": "var",
+   "Option_B": "let",
+   "Option_C": "const",
+   "Option_D": "Both let and const",
+   "Correct_Key": "D"
+ },
+ {
+   "Q_ID": 62,
+   "Category": "JavaScript",
+   "Question_Text": "What is the output of typeof null?",
+   "Option_A": null,
+   "Option_B": "object",
+   "Option_C": "undefined",
+   "Option_D": "number",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 63,
+   "Category": "JavaScript",
+   "Question_Text": "Which method adds elements to the end of an array?",
+   "Option_A": "push()",
+   "Option_B": "append()",
+   "Option_C": "add()",
+   "Option_D": "insert()",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 64,
+   "Category": "JavaScript",
+   "Question_Text": "What does '===' check?",
+   "Option_A": "Value only",
+   "Option_B": "Type only",
+   "Option_C": "Value and type",
+   "Option_D": "Reference",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 65,
+   "Category": "JavaScript",
+   "Question_Text": "Which is not a primitive type?",
+   "Option_A": "string",
+   "Option_B": "boolean",
+   "Option_C": "object",
+   "Option_D": "number",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 66,
+   "Category": "JavaScript",
+   "Question_Text": "What is a closure?",
+   "Option_A": "Function inside function",
+   "Option_B": "Loop construct",
+   "Option_C": "Object property",
+   "Option_D": "Class method",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 67,
+   "Category": "JavaScript",
+   "Question_Text": "Which method converts JSON to object?",
+   "Option_A": "parse()",
+   "Option_B": "stringify()",
+   "Option_C": "toObject()",
+   "Option_D": "fromJSON()",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 68,
+   "Category": "JavaScript",
+   "Question_Text": "What is the output of 2 + '2'?",
+   "Option_A": "4",
+   "Option_B": "22",
+   "Option_C": "NaN",
+   "Option_D": "Error",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 69,
+   "Category": "JavaScript",
+   "Question_Text": "Which keyword creates a constant?",
+   "Option_A": "let",
+   "Option_B": "var",
+   "Option_C": "const",
+   "Option_D": "final",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 70,
+   "Category": "JavaScript",
+   "Question_Text": "What does 'this' refer to?",
+   "Option_A": "Current object",
+   "Option_B": "Global object",
+   "Option_C": "Function",
+   "Option_D": "Variable",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 71,
+   "Category": "JavaScript",
+   "Question_Text": "Which is an array method?",
+   "Option_A": "forEach()",
+   "Option_B": "each()",
+   "Option_C": "loop()",
+   "Option_D": "iterate()",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 72,
+   "Category": "JavaScript",
+   "Question_Text": "What is hoisting?",
+   "Option_A": "Moving declarations",
+   "Option_B": "Variable deletion",
+   "Option_C": "Function calling",
+   "Option_D": "Object creation",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 73,
+   "Category": "JavaScript",
+   "Question_Text": "Which operator is for strict inequality?",
+   "Option_A": "!=",
+   "Option_B": "!==",
+   "Option_C": "<>",
+   "Option_D": "=/=",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 74,
+   "Category": "JavaScript",
+   "Question_Text": "What is a Promise?",
+   "Option_A": "Async operation",
+   "Option_B": "Loop type",
+   "Option_C": "Variable type",
+   "Option_D": "Object method",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 75,
+   "Category": "JavaScript",
+   "Question_Text": "Which method removes last element from array?",
+   "Option_A": "pop()",
+   "Option_B": "remove()",
+   "Option_C": "delete()",
+   "Option_D": "shift()",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 76,
+   "Category": "React",
+   "Question_Text": "What is JSX?",
+   "Option_A": "JavaScript XML",
+   "Option_B": "Java Syntax Extension",
+   "Option_C": "JSON Extension",
+   "Option_D": "JavaScript Execute",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 77,
+   "Category": "React",
+   "Question_Text": "Which hook manages state?",
+   "Option_A": "useEffect",
+   "Option_B": "useState",
+   "Option_C": "useContext",
+   "Option_D": "useMemo",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 78,
+   "Category": "React",
+   "Question_Text": "What does useEffect do?",
+   "Option_A": "Creates state",
+   "Option_B": "Side effects",
+   "Option_C": "Event handling",
+   "Option_D": "Component creation",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 79,
+   "Category": "React",
+   "Question_Text": "How to pass data to child component?",
+   "Option_A": "Props",
+   "Option_B": "State",
+   "Option_C": "Context",
+   "Option_D": "Methods",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 80,
+   "Category": "React",
+   "Question_Text": "What is a pure component?",
+   "Option_A": "Stateless component",
+   "Option_B": "Optimized component",
+   "Option_C": "Class component",
+   "Option_D": "Functional component",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 81,
+   "Category": "React",
+   "Question_Text": "Which method is called after component renders?",
+   "Option_A": "componentDidMount",
+   "Option_B": "componentWillMount",
+   "Option_C": "render",
+   "Option_D": "constructor",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 82,
+   "Category": "React",
+   "Question_Text": "What is the virtual DOM?",
+   "Option_A": "Real DOM copy",
+   "Option_B": "DOM representation",
+   "Option_C": "Browser DOM",
+   "Option_D": "Shadow DOM",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 83,
+   "Category": "React",
+   "Question_Text": "Which hook replaces componentDidMount?",
+   "Option_A": "useEffect",
+   "Option_B": "useState",
+   "Option_C": "useLayout",
+   "Option_D": "useMemo",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 84,
+   "Category": "React",
+   "Question_Text": "What is prop drilling?",
+   "Option_A": "Passing props",
+   "Option_B": "Creating props",
+   "Option_C": "Deleting props",
+   "Option_D": "Updating props",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 85,
+   "Category": "React",
+   "Question_Text": "Which is correct import statement?",
+   "Option_A": "import React from 'react'",
+   "Option_B": "require('react')",
+   "Option_C": "include React",
+   "Option_D": "using React",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 86,
+   "Category": "HTML",
+   "Question_Text": "Which tag creates a hyperlink?",
+   "Option_A": "<link>",
+   "Option_B": "<a>",
+   "Option_C": "<href>",
+   "Option_D": "<url>",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 87,
+   "Category": "HTML",
+   "Question_Text": "What does HTML stand for?",
+   "Option_A": "Hypertext Markup Language",
+   "Option_B": "High Text Markup Language",
+   "Option_C": "Hyperlink Text Mode Language",
+   "Option_D": "Home Tool Markup Language",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 88,
+   "Category": "HTML",
+   "Question_Text": "Which tag is used for line break?",
+   "Option_A": "<break>",
+   "Option_B": "<br>",
+   "Option_C": "<lb>",
+   "Option_D": "<newline>",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 89,
+   "Category": "HTML",
+   "Question_Text": "What is the correct HTML for a heading?",
+   "Option_A": "<h1>",
+   "Option_B": "<heading>",
+   "Option_C": "<head>",
+   "Option_D": "<h>",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 90,
+   "Category": "HTML",
+   "Question_Text": "Which attribute specifies alternative text for image?",
+   "Option_A": "title",
+   "Option_B": "alt",
+   "Option_C": "src",
+   "Option_D": "desc",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 91,
+   "Category": "CSS",
+   "Question_Text": "Which property changes text color?",
+   "Option_A": "font-color",
+   "Option_B": "text-color",
+   "Option_C": "color",
+   "Option_D": "foreground",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 92,
+   "Category": "CSS",
+   "Question_Text": "What does CSS stand for?",
+   "Option_A": "Cascading Style Sheets",
+   "Option_B": "Creative Style Syntax",
+   "Option_C": "Computer Style System",
+   "Option_D": "Coded Style Sheets",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 93,
+   "Category": "CSS",
+   "Question_Text": "Which property adds space inside border?",
+   "Option_A": "margin",
+   "Option_B": "padding",
+   "Option_C": "spacing",
+   "Option_D": "border-space",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 94,
+   "Category": "CSS",
+   "Question_Text": "What is the correct syntax for external CSS?",
+   "Option_A": "<style src='style.css'>",
+   "Option_B": "<link rel='stylesheet' href='style.css'>",
+   "Option_C": "<css>style.css</css>",
+   "Option_D": "<stylesheet>style.css</stylesheet>",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 95,
+   "Category": "CSS",
+   "Question_Text": "Which selector selects all elements?",
+   "Option_A": "*",
+   "Option_B": ".all",
+   "Option_C": "#all",
+   "Option_D": "all",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 96,
+   "Category": "MySQL",
+   "Question_Text": "Which command retrieves data?",
+   "Option_A": "GET",
+   "Option_B": "SELECT",
+   "Option_C": "FETCH",
+   "Option_D": "RETRIEVE",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 97,
+   "Category": "MySQL",
+   "Question_Text": "What does SQL stand for?",
+   "Option_A": "Structured Query Language",
+   "Option_B": "Simple Query Language",
+   "Option_C": "Standard Question Language",
+   "Option_D": "System Query Logic",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 98,
+   "Category": "MySQL",
+   "Question_Text": "Which clause filters results?",
+   "Option_A": "WHERE",
+   "Option_B": "FILTER",
+   "Option_C": "IF",
+   "Option_D": "CONDITION",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 99,
+   "Category": "MySQL",
+   "Question_Text": "What is a primary key?",
+   "Option_A": "Unique identifier",
+   "Option_B": "First column",
+   "Option_C": "Foreign key",
+   "Option_D": "Index key",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 100,
+   "Category": "MySQL",
+   "Question_Text": "Which join returns all rows from both tables?",
+   "Option_A": "INNER JOIN",
+   "Option_B": "FULL OUTER JOIN",
+   "Option_C": "LEFT JOIN",
+   "Option_D": "RIGHT JOIN",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 101,
+   "Category": "OS",
+   "Question_Text": "What does OS stand for?",
+   "Option_A": "Operating System",
+   "Option_B": "Open Source",
+   "Option_C": "Online Service",
+   "Option_D": "Output System",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 102,
+   "Category": "OS",
+   "Question_Text": "Which is not a type of OS?",
+   "Option_A": "Batch",
+   "Option_B": "Real-time",
+   "Option_C": "Virtual",
+   "Option_D": "Distributed",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 103,
+   "Category": "OS",
+   "Question_Text": "What is a process?",
+   "Option_A": "Running program",
+   "Option_B": "Stopped program",
+   "Option_C": "Compiled code",
+   "Option_D": "Source code",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 104,
+   "Category": "OS",
+   "Question_Text": "Which scheduling algorithm is non-preemptive?",
+   "Option_A": "Round Robin",
+   "Option_B": "FCFS",
+   "Option_C": "Shortest Remaining Time",
+   "Option_D": "Priority with preemption",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 105,
+   "Category": "OS",
+   "Question_Text": "What is a deadlock?",
+   "Option_A": "Process waiting indefinitely",
+   "Option_B": "Process termination",
+   "Option_C": "Process execution",
+   "Option_D": "Process creation",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 106,
+   "Category": "OS",
+   "Question_Text": "Which is not a memory management technique?",
+   "Option_A": "Paging",
+   "Option_B": "Segmentation",
+   "Option_C": "Fragmentation",
+   "Option_D": "Swapping",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 107,
+   "Category": "OS",
+   "Question_Text": "What does PCB stand for?",
+   "Option_A": "Process Control Block",
+   "Option_B": "Program Control Block",
+   "Option_C": "Processor Control Buffer",
+   "Option_D": "Process Code Block",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 108,
+   "Category": "OS",
+   "Question_Text": "What is thrashing?",
+   "Option_A": "Excessive paging",
+   "Option_B": "Process scheduling",
+   "Option_C": "Memory allocation",
+   "Option_D": "Disk formatting",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 109,
+   "Category": "OS",
+   "Question_Text": "Which algorithm avoids deadlock?",
+   "Option_A": "Banker's Algorithm",
+   "Option_B": "FIFO",
+   "Option_C": "LRU",
+   "Option_D": "Round Robin",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 110,
+   "Category": "OS",
+   "Question_Text": "What is a semaphore?",
+   "Option_A": "Synchronization tool",
+   "Option_B": "Memory unit",
+   "Option_C": "Process state",
+   "Option_D": "Scheduling algorithm",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 111,
+   "Category": "CAO",
+   "Question_Text": "What does ALU stand for?",
+   "Option_A": "Arithmetic Logic Unit",
+   "Option_B": "Advanced Logic Unit",
+   "Option_C": "Array Logic Unit",
+   "Option_D": "Automated Logic Unit",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 112,
+   "Category": "CAO",
+   "Question_Text": "Which is not a CPU register?",
+   "Option_A": "Accumulator",
+   "Option_B": "Program Counter",
+   "Option_C": "Cache",
+   "Option_D": "Instruction Register",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 113,
+   "Category": "CAO",
+   "Question_Text": "What is cache memory?",
+   "Option_A": "Fast memory near CPU",
+   "Option_B": "Slow memory",
+   "Option_C": "Virtual memory",
+   "Option_D": "Secondary storage",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 114,
+   "Category": "CAO",
+   "Question_Text": "Which bus transfers data?",
+   "Option_A": "Address bus",
+   "Option_B": "Data bus",
+   "Option_C": "Control bus",
+   "Option_D": "System bus",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 115,
+   "Category": "CAO",
+   "Question_Text": "What is pipelining?",
+   "Option_A": "Parallel instruction execution",
+   "Option_B": "Sequential execution",
+   "Option_C": "Memory access",
+   "Option_D": "Disk operation",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 116,
+   "Category": "Database",
+   "Question_Text": "What is normalization?",
+   "Option_A": "Removing redundancy",
+   "Option_B": "Adding indexes",
+   "Option_C": "Creating tables",
+   "Option_D": "Deleting records",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 117,
+   "Category": "Database",
+   "Question_Text": "Which normal form removes partial dependency?",
+   "Option_A": "1NF",
+   "Option_B": "2NF",
+   "Option_C": "3NF",
+   "Option_D": "BCNF",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 118,
+   "Category": "Database",
+   "Question_Text": "What is a foreign key?",
+   "Option_A": "References primary key",
+   "Option_B": "Unique key",
+   "Option_C": "Candidate key",
+   "Option_D": "Composite key",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 119,
+   "Category": "Database",
+   "Question_Text": "What does ACID stand for?",
+   "Option_A": "Atomicity Consistency Isolation Durability",
+   "Option_B": "Automatic Commit Isolation Database",
+   "Option_C": "Advanced Concurrent Indexed Database",
+   "Option_D": "Atomic Cascading Isolated Data",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 120,
+   "Category": "Database",
+   "Question_Text": "What is a view?",
+   "Option_A": "Virtual table",
+   "Option_B": "Physical table",
+   "Option_C": "Index",
+   "Option_D": "Stored procedure",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 121,
+   "Category": "Kotlin",
+   "Question_Text": "Which keyword declares a variable?",
+   "Option_A": "var",
+   "Option_B": "let",
+   "Option_C": "const",
+   "Option_D": "define",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 122,
+   "Category": "Kotlin",
+   "Question_Text": "What is the null-safe operator in Kotlin?",
+   "Option_A": "?.",
+   "Option_B": "!.",
+   "Option_C": "?:",
+   "Option_D": "!!",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 123,
+   "Category": "Kotlin",
+   "Question_Text": "Which keyword declares immutable variable?",
+   "Option_A": "var",
+   "Option_B": "val",
+   "Option_C": "const",
+   "Option_D": "final",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 124,
+   "Category": "Kotlin",
+   "Question_Text": "What is a data class?",
+   "Option_A": "Class for data storage",
+   "Option_B": "Abstract class",
+   "Option_C": "Interface",
+   "Option_D": "Sealed class",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 125,
+   "Category": "Kotlin",
+   "Question_Text": "Which function is the entry point?",
+   "Option_A": "start()",
+   "Option_B": "main()",
+   "Option_C": "begin()",
+   "Option_D": "init()",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 126,
+   "Category": "PHP",
+   "Question_Text": "Which symbol starts a variable in PHP?",
+   "Option_A": "$",
+   "Option_B": "@",
+   "Option_C": "#",
+   "Option_D": "&",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 127,
+   "Category": "PHP",
+   "Question_Text": "What does PHP stand for?",
+   "Option_A": "Hypertext Preprocessor",
+   "Option_B": "Personal Home Page",
+   "Option_C": "Private Hypertext Processor",
+   "Option_D": "Public HTML Pages",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 128,
+   "Category": "PHP",
+   "Question_Text": "Which function outputs text?",
+   "Option_A": "print()",
+   "Option_B": "echo()",
+   "Option_C": "Both print and echo",
+   "Option_D": "display()",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 129,
+   "Category": "PHP",
+   "Question_Text": "How do you start a PHP code block?",
+   "Option_A": "<?php",
+   "Option_B": "<php>",
+   "Option_C": "<?p>",
+   "Option_D": "<script>",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 130,
+   "Category": "PHP",
+   "Question_Text": "Which operator concatenates strings?",
+   "Option_A": "+",
+   "Option_B": "&",
+   "Option_C": ".",
+   "Option_D": "||",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 131,
+   "Category": "Assembly",
+   "Question_Text": "Which register holds the instruction address?",
+   "Option_A": "AX",
+   "Option_B": "BX",
+   "Option_C": "IP",
+   "Option_D": "SP",
+   "Correct_Key": "C"
+ },
+ {
+   "Q_ID": 132,
+   "Category": "Assembly",
+   "Question_Text": "What does MOV instruction do?",
+   "Option_A": "Multiply",
+   "Option_B": "Move data",
+   "Option_C": "Modify",
+   "Option_D": "Module",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 133,
+   "Category": "Assembly",
+   "Question_Text": "Which is an 8-bit register?",
+   "Option_A": "AX",
+   "Option_B": "AL",
+   "Option_C": "EAX",
+   "Option_D": "RAX",
+   "Correct_Key": "B"
+ },
+ {
+   "Q_ID": 134,
+   "Category": "Assembly",
+   "Question_Text": "What is an opcode?",
+   "Option_A": "Operation code",
+   "Option_B": "Open code",
+   "Option_C": "Output code",
+   "Option_D": "Object code",
+   "Correct_Key": "A"
+ },
+ {
+   "Q_ID": 135,
+   "Category": "Assembly",
+   "Question_Text": "Which directive defines a variable?",
+   "Option_A": "DEF",
+   "Option_B": "VAR",
+   "Option_C": "DB",
+   "Option_D": "DIM",
+   "Correct_Key": "C"
+ }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FastAPI Code Quiz Challenge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Code Quiz Challenge</h1>
+    </header>
+
+    <main>
+        <section id="category-selection">
+            <h2>Select a Quiz Category</h2>
+            <div id="category-list" class="grid-container">
+                </div>
+        </section>
+
+        <section id="quiz-container" class="hidden">
+            <h2 id="quiz-category-title"></h2>
+            <div id="question-area">
+                <p id="question-text"></p>
+                <div id="options-container" class="options">
+                    </div>
+            </div>
+            <div id="quiz-navigation">
+                <button id="next-button" disabled>Next Question</button> 
+                </div>
+            <p id="quiz-status">Question 1 of 10</p>
+        </section>
+
+        <section id="result-container" class="hidden">
+            <h2>Quiz Results</h2>
+            <p id="score-summary"></p>
+            <div id="result-details">
+                </div>
+            <button onclick="returnHome()">Start New Quiz</button> 
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
